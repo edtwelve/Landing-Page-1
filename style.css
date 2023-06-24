@@ -106,7 +106,7 @@
     display:flex;
     gap: 20px;
     justify-content: center;
-    padding: 10px 0 25px;
+    padding: 10px 0 75px;
 }
 
 .element {
@@ -126,4 +126,24 @@
 .element p {
     color: gray;
     max-width: 150px;
+}
+
+.quote-container {
+    background-color: #e5e7eB;
+    display: flex;
+    flex-direction: column;
+    padding: 200px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+}
+
+.autor {
+    display:flex;
+    justify-content: end;
+    font-weight: bold;
 }
