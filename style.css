@@ -90,3 +90,13 @@
     color: white;
     margin: auto;
 }
+
+.random-info {
+    text-align: center;
+}
+.random-info-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #1f2937;
+    margin: 30px 0;
+}
