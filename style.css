@@ -104,8 +104,9 @@
 
 .squares {
     display:flex;
-    gap: 5px;
+    gap: 20px;
     justify-content: center;
+    padding: 10px 0 25px;
 }
 
 .element {
@@ -115,8 +116,8 @@
 }
 
 .square {
-    width: 120px;
-    height: 120px;
+    width: 145px;
+    height: 145px;
     border:#3882f6 2px solid;
     border-radius: 10px;
     margin-bottom: 10px;
