@@ -148,10 +148,12 @@
     display:flex;
     justify-content: end;
     font-weight: bold;
+    font-size: 15px;
 }
 
 .cta {
     padding: 200px;
+    background-color: white;
 }
 
 .cta-info {
@@ -177,7 +179,7 @@
 }
 .cta-button {
     border: 2px solid #e5e7eB;
-    border-radius: 3px;
+    border-radius: 5px;
     width: 110px;
     background-color: inherit;
     color: inherit;
